@@ -2,7 +2,7 @@
 
 This repository contains code used in the following paper.
 
-Joseph W Oundo, Nienke Hartemink, Mart C.M. de Jong, Constantianus J.M. Koenraadt, Shewit Kalayou, Daniel Masiga, Quirine ten Bosch. (2025). Biological tick control: modeling the potential impact of entomopathogenic fungi on the transmission of East Coast fever in cattle. Ticks and tick-borne diseases, 16(1), 102435. https://doi.org/10.1016/j.ttbdis.2024.102435 
+Joseph W Oundo, Nienke Hartemink, Mart C.M. de Jong, Constantianus J.M. Koenraadt, Shewit Kalayou, Daniel Masiga, Quirine ten Bosch. (2025). Biological control of ticks in domestic environments: Modeling the potential impact of entomopathogenic fungi on the transmission of East Coast fever in cattle. Ticks and tick-borne diseases, 16(1), 102435. https://doi.org/10.1016/j.ttbdis.2024.102435 
 
  
 ## Description of the different R files and the figures generated
